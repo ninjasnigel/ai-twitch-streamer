@@ -1,0 +1,7 @@
+{"text": "You suck!", "label": "Negative", "metadata": {"source":"example.com"}}
+{"text": "Why are you so bad?", "label": "Negative", "metadata": {"source":"example.com"}}
+{"text": "You are cool", "label": "Positive", "metadata": {"source":"example.com"}}
+{"text": "How are you doing today?", "label": "Neutral", "metadata": {"source":"example.com"}}
+{"text": "How old are you?", "label": "Neutral", "metadata": {"source":"example.com"}}
+{"text": "You are cute", "label": "Positive", "metadata": {"source":"example.com"}}
+{"text": "You are ugly?", "label": "Negative", "metadata": {"source":"example.com"}}
